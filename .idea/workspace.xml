@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cec164d-93ca-4ba6-82b2-444f5c299314" name="Default Changelist" comment="" />
+    <list default="true" id="4cec164d-93ca-4ba6-82b2-444f5c299314" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
       <workItem from="1593757864840" duration="2573000" />
       <workItem from="1593766174321" duration="899000" />
       <workItem from="1594093570575" duration="4969000" />
-      <workItem from="1594106411625" duration="1422000" />
+      <workItem from="1594106411625" duration="2138000" />
     </task>
     <task id="LOCAL-00001" summary="commits">
       <created>1594106449532</created>
@@ -96,26 +98,26 @@
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
     <state x="2592" y="206" key="FileChooserDialogImpl/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108345129" />
-    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog" timestamp="1594108481698">
+    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog" timestamp="1594108698986">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108481698" />
-    <state x="2542" y="160" key="Github.UntrackedFilesDialog" timestamp="1594104669290">
+    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108698986" />
+    <state x="2542" y="160" key="Github.UntrackedFilesDialog" timestamp="1594108738544">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="2542" y="160" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594104669290" />
+    <state x="2542" y="160" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108738544" />
     <state x="2230" y="87" key="SettingsEditor" timestamp="1594108546019">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
     <state x="2230" y="87" key="SettingsEditor/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108546019" />
-    <state x="2353" y="197" key="Vcs.Push.Dialog.v2" timestamp="1594106090834">
+    <state x="2353" y="197" key="Vcs.Push.Dialog.v2" timestamp="1594109247115">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="2353" y="197" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106090834" />
-    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594106457307">
+    <state x="2353" y="197" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594109247115" />
+    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594108999787">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106457307" />
+    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108999787" />
     <state x="2609" y="359" key="git4idea.rebase.GitRebaseDialog" timestamp="1594106038322">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
