@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cec164d-93ca-4ba6-82b2-444f5c299314" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e4rbvTJO5LUc32qC7nICPNtwLJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\NLP_process\keras_tf_TextCNN\imdb_TextAttBiRNN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\NLP_process\keras_tf_TextCNN\imdb_TextAttBiRNN" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cec164d-93ca-4ba6-82b2-444f5c299314" name="Default Changelist" comment="" />
+      <created>1593591780760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593591780760</updated>
+      <workItem from="1593591783241" duration="472000" />
+      <workItem from="1593594993471" duration="2944000" />
+      <workItem from="1593654470664" duration="12195000" />
+      <workItem from="1593757864840" duration="2573000" />
+      <workItem from="1593766174321" duration="899000" />
+      <workItem from="1594093570575" duration="4969000" />
+      <workItem from="1594106411625" duration="1422000" />
+    </task>
+    <task id="LOCAL-00001" summary="commits">
+      <created>1594106449532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594106449532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="commits" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2730" y="354" key="#Notifications" timestamp="1593591999884">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2730" y="354" key="#Notifications/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1593591999884" />
+    <state x="2312" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593766908172">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2312" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1593766908172" />
+    <state x="2333" y="1" key="CommitChangelistDialog2" timestamp="1594106448269">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2333" y="1" key="CommitChangelistDialog2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106448269" />
+    <state x="2592" y="206" key="FileChooserDialogImpl" timestamp="1594108345129">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2592" y="206" key="FileChooserDialogImpl/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108345129" />
+    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog" timestamp="1594108481698">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2664" y="402" width="394" height="351" key="Github.ShareDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108481698" />
+    <state x="2542" y="160" key="Github.UntrackedFilesDialog" timestamp="1594104669290">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2542" y="160" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594104669290" />
+    <state x="2230" y="87" key="SettingsEditor" timestamp="1594108546019">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2230" y="87" key="SettingsEditor/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594108546019" />
+    <state x="2353" y="197" key="Vcs.Push.Dialog.v2" timestamp="1594106090834">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2353" y="197" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106090834" />
+    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594106457307">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2593" y="420" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106457307" />
+    <state x="2609" y="359" key="git4idea.rebase.GitRebaseDialog" timestamp="1594106038322">
+      <screen x="1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="359" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.1.1920.1040@1920.1.1920.1040" timestamp="1594106038322" />
+  </component>
+</project>
